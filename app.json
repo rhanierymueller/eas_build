@@ -1,0 +1,9 @@
+{
+  "name": "easBuild",
+  "displayName": "easBuild",
+  "extra": {
+    "eas": {
+      "projectId": "8eef48ce-2851-4a26-9a62-da00991a1cc6"
+    }
+  }
+}
